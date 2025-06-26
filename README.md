@@ -7,8 +7,8 @@
 
 ![Static Badge](https://img.shields.io/badge/mission-articulate%20deep%20context%20about%20things%20that%20matter%20to%20humans-brightgreen)
 <br />
-![GitHub top language](https://img.shields.io/github/languages/top/danielmiessler/Telos)
-![GitHub last commit](https://img.shields.io/github/last-commit/danielmiessler/Telos)
+![GitHub top language](https://img.shields.io/github/languages/top/RoadDogsAndTruckerHats/Telos)
+![GitHub last commit](https://img.shields.io/github/last-commit/RoadDogsAndTruckerHats/Telos)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 </div>
 
@@ -37,25 +37,31 @@ The conceptual path is Problems -> Mission -> (Narratives) -> Goals -> Challenge
 
 # ` Content `
 </div>
-
+## Templates
 <div align="center">
 
-### ` Personal Template `
+### [` Personal Template `](Templates/personal-TCF-Template.md)
 </div>
 
 <div align="center">
 
-### ` Corporate Template `
+### [` Corporate Template `](Templates/corporate-TCF-Template.md)
 </div>
+## Practical Examples
 
 <div align="center">
 
-### ` Practical Examples `
+### [` Alma Security `](Examples/almaSecurity-TCF.md)
 </div>
-
-The current content of the Telos framework is a file called [`corporate_telos.md`](corporate_telos.md), which is a Telos Context File (TCF) that contains the context for a fictional company called Alma.
+contains the context for a fictional company called Alma.
 
 The file is for the company's Information Security Program, and covers everything about the program, from its mission to its goals, strategies, tech stack, remediation metrics, etc.
+<div align="center">
+
+### [` Network Chuck `](Examples/networkChuck-TCF.md)
+</div>
+
+The current content of the Telos framework is a file called [`corporate_telos.md`](corporate_telos.md), which is a Telos Context File (TCF) that 
 
 <div align="center">
 

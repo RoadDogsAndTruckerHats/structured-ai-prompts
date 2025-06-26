@@ -25,7 +25,14 @@
 
 # ` Structure `
 </div>
-Telos is largely made up of Telos Context Files (TCF).
+
+## What It Is
+Telos is made up of Telos Context Files (TCF). A TCF is effectively a highly descriptive profile of a given entity, which is used to seriusly beef up the Context section of a CRIT Structured AI Prompt.
+
+
+## Conceptual Workflow 
+The conceptual path is Problems -> Mission -> (Narratives) -> Goals -> Challenges -> Strategies —> Projects -> Journal
+
 <div align="center">
 
 # ` Content `

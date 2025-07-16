@@ -4,19 +4,19 @@
 
 The CRIT prompt is a simple, repeatable framework to evaluate any situation, and create a comprehensive, and actionable strategy for moving forward.
 
-### C -> ![Context](../Talos/README.md)
+### C -> [Context](../Telos/README.md)
 
-  What is the situation. What do you know or not know about the topic. Give as much info here as you can. The Talos framework lands here beautifully.
+  What is the situation. What do you know or not know about the topic. Give as much info here as you can. The Telos framework lands here beautifully.
 
-### R -> ![Role](../rolePlaying/README.md)
+### R -> [Role](../rolePlaying/README.md)
 
   Define the AI's role. Give it the role of an expert, industry insider, anything you like. Really flesh out the role. What accomplishments, insights, or experience might it offer?
 
-### I -> ![Interview](../theInquisition/README.md)
+### I -> [Interview](../theInquisition/README.md)
 
   Ask the AI agent to interview you, and poke your blind spots to fully fill out and understand your case.
 
-### T -> ![Task](..//README.md)
+### T -> [Task](../Goals/README.md)
 
   Ultimately, you're defining your goals here. Generate non-obvious strategies, Objectives, insights.
 
@@ -31,7 +31,7 @@ This concept was originally introduced to me by Jack Spirko, via TSP. However, t
 
 ## Examples
 
-### ![Culinary Mushrooms](Examples/CRIT-example-spirko-mushroom.md)
+### [Culinary Mushrooms](Examples/CRIT-example-spirko-mushroom.md)
 
 ## Resorces
 
